@@ -7,3 +7,5 @@ good afternoon
 good bye
 
 remove line
+
+new line added
